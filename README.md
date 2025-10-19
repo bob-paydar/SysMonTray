@@ -1,5 +1,5 @@
 # SysMonTray — CPU & RAM Gauges
-
+![screenshot](https://github.com/bob-paydar/SysMonTray/blob/main/Screenshot.png)
 SysMonTray is a lightweight Windows desktop application that provides **real‑time monitoring of CPU and RAM usage** in a clean, modern interface.  
 It displays two circular gauges that automatically scale to fit the application window, giving you a quick at‑a‑glance overview of your system’s load.
 
